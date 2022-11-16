@@ -4,6 +4,85 @@
     display: block;
 }
 
+p{
+    color: black;
+}
+
+.section{
+    margin: 0 3rem;
+}
+
+.tabs-group{
+    margin: 1rem 0;
+    border-radius: 1rem;
+}
+
+.inco-tabs{
+    margin-bottom: 2rem;
+    border-width: 3px;
+    border-color: black;
+}
+
+.info-card{
+    display: flex;
+    justify-content: space-between;
+    height: 4rem;
+    background-color: rgb(194, 192, 192);
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+
+.vegetable-tab{
+    display: flex;
+    margin: 0.5rem 0;
+    background-color: rgb(194, 192, 192);
+    border-radius: 10px;
+}
+
+.vegetable-card{
+    margin: 0.5rem;
+    padding: 0.5rem;
+    background-color: rgb(96, 216, 92);
+    border-radius: 15px;
+}
+
+.incoming{
+    margin-top: 2rem;
+}
+.uil-check{
+    color: green;
+    font-size: 2rem;
+}
+
+.uil-times{
+    color: red;
+    font-size: 2rem;
+}
+
 .current-location{
     display: flex;
 }
+
+.prev-info-card{
+    display: block;
+    padding: 0;
+    margin: 0;
+    height: 3rem;
+}
+
+.prev-tabs{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(194, 192, 192);
+    margin: 1rem 0;
+    padding: 0.5rem;
+    border-radius: 15px;
+    height: 4rem
+}
+
+.date-stamp{
+    display: flex;
+    margin-top: 0.5rem;
+}
+
