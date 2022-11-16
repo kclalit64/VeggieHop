@@ -1,0 +1,9 @@
+@import 'base.css';
+
+*{
+    display: block;
+}
+
+.current-location{
+    display: flex;
+}
